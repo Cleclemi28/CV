@@ -1,0 +1,59 @@
+body{
+	background-color: rgb(104, 187, 287);
+}
+.titre1{
+	font-size:  80px;
+}
+.aside{
+	background-color: rgb(9, 30, 45);
+}
+.photo{
+	height: 150px;
+	width: 150px;
+}
+
+.presentation p {
+	color: white;
+	margin-top: 4%;
+}
+ul li
+{
+	color: white;
+}
+.coordonnee{
+	margin-top: 10%;
+}
+.coor{
+	margin-top: 4%;
+}
+.titre2
+{
+	color: white;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px;
+	opacity: 0.7;
+}
+.bas{
+	margin-bottom: 2%;
+}
+.exp{
+	background-color: white;
+	margin-top: 2%;
+}
+.para{
+	letter-spacing: 4px;
+}
+.footer{
+	background-color: rgb(9, 30, 45);
+	height: 75px;
+	margin-top: 1%;
+}
+.footer p{
+	color: white;
+	margin
+}
+.toto{
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
